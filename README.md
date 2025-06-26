@@ -19,7 +19,7 @@
 <!-- REDDIT -->
 <a href="https://www.reddit.com/user/ZyNx-d-5leepyb0i/" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png" alt="ZyNx-d-5leepyb0i" height="30" width="30" /></a>
 <!-- TIKTOK -->
-<a href="https://www.tiktok.com/@zynxmcln50" target="blank"><img align="center" src="https://www.svgrepo.com/show/327400/logo-tiktok.svg" alt="zynxmcln50" height="30" width="30" /></a>
+<a href="https://www.tiktok.com/@zynxmcln50" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/tiktok-1.svg" alt="zynxmcln50" height="30" width="30" /></a>
 <!-- TWITCH -->
 <a href="https://www.twitch.tv/zynx50" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-twitch-logo-icon-download-in-svg-png-gif-file-formats--major-websites-set-pack-logos-icons-461838.png" alt="zynx50" height="30" width="30" /></a>
 <!-- YOUTUBE -->
