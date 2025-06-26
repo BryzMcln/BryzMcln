@@ -17,11 +17,11 @@
 <!-- TWITTER/X -->
 <a href="https://twitter.com/zynxmcln_50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zynxmcln_50" height="30" width="40" /></a>
 <!-- REDDIT -->
-<a href="https://www.reddit.com/user/ZyNx-d-5leepyb0i/" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png" alt="john bryan pantojan macalinao" height="30" width="30" /></a>
+<a href="https://www.reddit.com/user/ZyNx-d-5leepyb0i/" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png" alt="ZyNx-d-5leepyb0i" height="30" width="30" /></a>
 <!-- TIKTOK -->
-<a href="https://www.tiktok.com/@zynxmcln50" target="blank"><img align="center" src="https://seeklogo.com/images/T/tiktok-icon-logo-1CB398A1BD-seeklogo.com.png" alt="john bryan pantojan macalinao" height="30" width="30" /></a>
+<a href="https://www.tiktok.com/@zynxmcln50" target="blank"><img align="center" src="https://www.svgrepo.com/show/327400/logo-tiktok.svg" alt="zynxmcln50" height="30" width="30" /></a>
 <!-- TWITCH -->
-<!-- <a href="https://www.twitch.tv/zynx50" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/twitch-icon-489x512-jqw4vk2h.png" alt="john bryan pantojan macalinao" height="30" width="30" /></a> -->
+<a href="https://www.twitch.tv/zynx50" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-twitch-logo-icon-download-in-svg-png-gif-file-formats--major-websites-set-pack-logos-icons-461838.png" alt="zynx50" height="30" width="30" /></a>
 <!-- YOUTUBE -->
 <a href="https://www.youtube.com/channel/UCA9WFWEMuLa8V9MBw2pBt2g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zynx" height="30" width="40" /></a>
 <!-- PINTEREST -->
