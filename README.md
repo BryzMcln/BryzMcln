@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm John Bryan P. Macalinao</h1>
-<h3 align="center">A IT Student in Palawan State University</h3>
-
-<!-- <p align="left"> <a href="https://twitter.com/zynxmcln_50" target="blank"><img src="https://img.shields.io/twitter/follow/zynxmcln_50?logo=twitter&style=for-the-badge" alt="zynxmcln_50" /></a> </p> -->
+<h1 align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=👋+Hey,+my+name's+John+Bryan.;I+love+open-source.;I+love+learning.;&center=true&width=500&height=50"></a>
+</h1>
 
 - 🌱 I’m currently learning **different programming languages and frameworks**
 - 👀 I’m interested in **🎮 Video Games**
@@ -9,7 +8,7 @@
 - ⚡ Fun fact 🗯️**I love to read Comic books**
 
 ## 🌐 Socials:
-<p align="left">
+<p align="center">
 <!-- FACEBOOK -->
 <a href="https://fb.com/john bryan pantojan macalinao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="john bryan pantojan macalinao" height="30" width="40" /></a> 
 <!-- INSTAGRAM -->
@@ -37,6 +36,7 @@
 </p>
 
 ## 💻 Tech Stack:
+<p align="center">
 <!-- Arduino -->
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
@@ -87,6 +87,7 @@
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="illustrator" width="40" height="40"/> </a>
 <!-- Illustrator -->
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+</p>
 
  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
