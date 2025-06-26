@@ -21,7 +21,7 @@
 <!-- TIKTOK -->
 <a href="https://www.tiktok.com/@zynxmcln50" target="blank"><img align="center" src="https://seeklogo.com/images/T/tiktok-icon-logo-1CB398A1BD-seeklogo.com.png" alt="john bryan pantojan macalinao" height="30" width="30" /></a>
 <!-- TWITCH -->
-<a href="https://www.twitch.tv/zynx50" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/twitch-icon-489x512-jqw4vk2h.png" alt="john bryan pantojan macalinao" height="30" width="30" /></a>
+<!-- <a href="https://www.twitch.tv/zynx50" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/twitch-icon-489x512-jqw4vk2h.png" alt="john bryan pantojan macalinao" height="30" width="30" /></a> -->
 <!-- YOUTUBE -->
 <a href="https://www.youtube.com/channel/UCA9WFWEMuLa8V9MBw2pBt2g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zynx" height="30" width="40" /></a>
 <!-- PINTEREST -->
@@ -83,16 +83,23 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <!-- Git -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<!-- Photoshop -->
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="illustrator" width="40" height="40"/> </a>
 <!-- Illustrator -->
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 
- ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+ ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
+ ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+ ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
+ ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
+ ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+ ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+ ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+ ![Canva](https://img.shields.io/badge/%20canva-%2331A8FF.svg?style=for-the-badge&logo=canva&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BryzMcln&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BryzMcln&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BryzMcln&theme=dark&hide_border=false)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryzmcln&" alt="bryzmcln" /></p>
+## 📊 GitHub Stats:
+![BryzMcln's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryzMcln&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=trueshow=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![BryzMcln's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BryzMcln&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BryzMcln&theme=dark&no-frame=false&no-bg=false&margin-w=4)
@@ -100,8 +107,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=BryzMcln&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🔝 Top Contributed Repo
+![BryzMcln's Top Contributions](https://github-contributor-stats.vercel.app/api?username=BryzMcln&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![BryzMcln's Total Contribution](https://github-readme-streak-stats.herokuapp.com/?user=BryzMcln&theme=dark&hide_border=false)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BryzMcln&icon=2&color=1)](https://visitcount.itsvg.in)
